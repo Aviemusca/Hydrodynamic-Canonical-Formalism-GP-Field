@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: HydrodynamicCanonicalFormalismGPfield.aux
+The style file: unsrt.bst
+Database file #1: HydrodynamicCanonicalFormalismGPfieldNotes.bib
+Database file #2: References.bib
+I was expecting a `,' or a `}'---line 52 of file References.bib
+ :   author={Kotkin, Gleb Leonidovich and Serbo, Valeri{\u\i}} 
+ :                                                             Georgievich},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 288 of file References.bib
+ :   
+ :   year={1934},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2103 of file References.bib
+ : @book{london1954superfluids
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--empty publisher in frenkel1934wave
+Warning--empty year in frenkel1934wave
+Warning--there's a number but no series in dirac1981principles
+You've used 41 entries,
+            1791 wiz_defined-function locations,
+            687 strings with 9363 characters,
+and the built_in function-call counts, 7868 in all, are:
+= -- 686
+> -- 296
+< -- 5
++ -- 119
+- -- 78
+* -- 460
+:= -- 1254
+add.period$ -- 123
+call.type$ -- 41
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 44
+duplicate$ -- 393
+empty$ -- 860
+format.name$ -- 78
+if$ -- 1771
+int.to.chr$ -- 0
+int.to.str$ -- 41
+missing$ -- 60
+newline$ -- 206
+num.names$ -- 41
+pop$ -- 169
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 125
+stack$ -- 0
+substring$ -- 390
+swap$ -- 50
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 73
+width$ -- 43
+write$ -- 432
+(There were 3 error messages)
